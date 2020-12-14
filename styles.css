@@ -1,0 +1,17 @@
+
+div {
+display: inline-block;
+ min-width: 100px;
+ }
+h1 {
+ font-size: 24px;
+ text-shadow: 0 0 10px #f507a6;
+ font-weight: 700; 
+}
+ span{
+ font-size: 24px;
+ color: black;
+ text-shadow: 0 0 10px #07c5f5;
+ display: block;
+ font-weight: 700;     
+    }
